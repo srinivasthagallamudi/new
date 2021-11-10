@@ -15,7 +15,7 @@
 	<description>User Service Microservice</description>
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>ramya-srinivas_NewUserservice
+		<sonar.projectKey>srinivasthagallamudi_orderrepo
 </sonar.projectKey>
 <sonar.organization>srinivasthagallamudi</sonar.organization>
 <sonar.host.url>https://sonarcloud.io/</sonar.host.url>
