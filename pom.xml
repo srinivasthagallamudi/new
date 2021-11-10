@@ -17,9 +17,9 @@
 		<java.version>11</java.version>
 		<sonar.projectKey>ramya-srinivas_NewUserservice
 </sonar.projectKey>
-<sonar.organization>ramya-srinivas</sonar.organization>
+<sonar.organization>srinivasthagallamudi</sonar.organization>
 <sonar.host.url>https://sonarcloud.io/</sonar.host.url>
-<sonar.login>26b001ea9f3b54a7d0d8fe71aa4eb7bbc9c62c51</sonar.login>
+<sonar.login>ea627bede4c531c74a5f920bec42a694f3263288
 	</properties>
 	<dependencies>
 		<dependency>
